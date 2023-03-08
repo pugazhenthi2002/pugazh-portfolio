@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/pugazh-portfolio/static/css/main.3f613b13.css",
+    "main.js": "/pugazh-portfolio/static/js/main.ba574a7c.js",
+    "static/js/787.60f2f2d7.chunk.js": "/pugazh-portfolio/static/js/787.60f2f2d7.chunk.js",
+    "static/media/pexels-brakou-abdelghani-1723637.jpg": "/pugazh-portfolio/static/media/pexels-brakou-abdelghani-1723637.0df2c37a2e19125a6cab.jpg",
+    "static/media/GitHub.png": "/pugazh-portfolio/static/media/GitHub.00c601f1724a126c1cbd.png",
+    "static/media/LinkedIn.png": "/pugazh-portfolio/static/media/LinkedIn.b1bebb391a157454d569.png",
+    "static/media/JS.png": "/pugazh-portfolio/static/media/JS.e7eb54ae40636987cc95.png",
+    "static/media/Python.png": "/pugazh-portfolio/static/media/Python.82c9a94d7ecb2684af20.png",
+    "static/media/leetcode.png": "/pugazh-portfolio/static/media/leetcode.cc13240c23b05dcdc1a5.png",
+    "static/media/R.png": "/pugazh-portfolio/static/media/R.80567e5475494a8d0f85.png",
+    "static/media/mysql.png": "/pugazh-portfolio/static/media/mysql.4fe76d0c8c2cd39a2766.png",
+    "static/media/CSS 3.png": "/pugazh-portfolio/static/media/CSS 3.8ee34ca32f1aaaf88d99.png",
+    "static/media/HTML 5.png": "/pugazh-portfolio/static/media/HTML 5.c4df12cdedc423a7b560.png",
+    "static/media/HackerRank.png": "/pugazh-portfolio/static/media/HackerRank.4c59b03351ecd530c8d8.png",
+    "static/media/project1.png": "/pugazh-portfolio/static/media/project1.d27e41779380b34526a7.png",
+    "static/media/C.png": "/pugazh-portfolio/static/media/C.83dfa097dfa94f707a41.png",
+    "static/media/C++.png": "/pugazh-portfolio/static/media/C++.dd18f0d209a3bc905695.png",
+    "static/media/Pugazhenthi Thaniarasu I R.jpeg": "/pugazh-portfolio/static/media/Pugazhenthi Thaniarasu I R.e410f4db0b4f68194e0e.jpeg",
+    "index.html": "/pugazh-portfolio/index.html",
+    "main.3f613b13.css.map": "/pugazh-portfolio/static/css/main.3f613b13.css.map",
+    "main.ba574a7c.js.map": "/pugazh-portfolio/static/js/main.ba574a7c.js.map",
+    "787.60f2f2d7.chunk.js.map": "/pugazh-portfolio/static/js/787.60f2f2d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f613b13.css",
+    "static/js/main.ba574a7c.js"
+  ]
+}
